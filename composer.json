@@ -1,7 +1,7 @@
 {
   "name": "iainhouston/superfish",
   "extra": {
-    "installer-name": "mmenu"
+    "installer-name": "superfish"
   },
   "description": "Misfits superfish menu  javascript as a Drupal library.",
   "type": "drupal-library",
