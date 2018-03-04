@@ -1,0 +1,17 @@
+{
+  "name": "iainhouston/superfish",
+  "extra": {
+    "installer-name": "mmenu"
+  },
+  "description": "Misfits superfish menu  javascript as a Drupal library.",
+  "type": "drupal-library",
+  "license": "GPL-2.0+",
+  "keywords": ["misfits"],
+  "homepage": "https://iainhouston.com",
+  "minimum-stability": "dev",
+  "authors": [{
+    "name": "Iain Houston",
+    "email": "iainhouston@mac.com"
+  }],
+  "require": {}
+  }
